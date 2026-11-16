@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For TFLuna
+#######################################
+
+TFLuna	KEYWORD1
+
+begin	KEYWORD2
+read	KEYWORD2
+getDistance	KEYWORD2
+getSignalStrength	KEYWORD2
+getTemperature	KEYWORD2
+getTimestamp	KEYWORD2
+isValid	KEYWORD2
+isConnected	KEYWORD2
+getAddress	KEYWORD2
+getFirmwareVersion	KEYWORD2
+getSerialNumber	KEYWORD2
+getFrameRate	KEYWORD2
+setFrameRate	KEYWORD2
+setI2CAddress	KEYWORD2
+saveSettings	KEYWORD2
+reboot	KEYWORD2
+factoryReset	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+setTriggerMode	KEYWORD2
+trigger	KEYWORD2
+setLowPower	KEYWORD2
+
+TFLUNA_DEFAULT_ADDRESS	LITERAL1
+TFLUNA_MIN_SIGNAL	LITERAL1
